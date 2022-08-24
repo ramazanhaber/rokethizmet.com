@@ -3,9 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c5fed1d11a36eade85ee6be8fbfb1ce3",
+  "assets/AssetManifest.json": "0129e6ee9bd41f82598d4e44d4212a0c",
+"assets/assets/icons/personicon.png": "d484f848dc62ed5661ad7eb9f2413a0c",
 "assets/assets/icons/Sun.svg": "ad8df0ed0918bc07e9ff5bd83e432be9",
 "assets/assets/images/facebook.png": "89e074c9fe96ebb896201fa8f923b84d",
+"assets/assets/images/girisblack.png": "ce961599689dee0e2393aff9b2a71566",
+"assets/assets/images/giriswhite.png": "1817ddd99e8c4a5aedb5a8b4c1b234a4",
 "assets/assets/images/google.png": "1e01fe36388e7453ab926c23b190827c",
 "assets/assets/images/land_tree_dark.png": "7512ddd21b18cf144efe2880a6b283bc",
 "assets/assets/images/land_tree_light.png": "ab6504f29806b76629a15aa12e60a88a",
@@ -29,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "a8ed2ec6339a3185f462ca1c37bca2b7",
 "icons/Icon-maskable-192.png": "54afe279bc18eca131b6ca4bed87a0fe",
 "icons/Icon-maskable-512.png": "a8ed2ec6339a3185f462ca1c37bca2b7",
-"index.html": "d716fcc9dc7e8d955df0352d14608441",
-"/": "d716fcc9dc7e8d955df0352d14608441",
-"main.dart.js": "d203331f215f587458994d8b61670075",
+"index.html": "06db2f41a0ae4961edbb0524e71a0291",
+"/": "06db2f41a0ae4961edbb0524e71a0291",
+"main.dart.js": "5721de89069edc0f97820bb99a44801a",
 "manifest.json": "e4b9cb947b113d8565a2b7de89c0c0cd",
 "version.json": "4d0e4f0ffaa7f4c8f1d12edbc7a51e7d"
 };
