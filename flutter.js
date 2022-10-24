@@ -20,8 +20,6 @@ _flutter.loader = null;
      * Creates a FlutterLoader, and initializes its instance methods.
      */
     constructor() {
-      // TODO: Move the below methods to "#private" once supported by all the browsers
-      // we support. In the meantime, we use the "revealing module" pattern.
 
       // Watchdog to prevent injecting the main entrypoint multiple times.
       this._scriptLoaded = null;
